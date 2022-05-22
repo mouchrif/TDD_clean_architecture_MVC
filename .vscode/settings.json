@@ -1,0 +1,6 @@
+{
+    "explorer.fileNesting.enabled": false,
+    "explorer.fileNesting.expand": true,
+    "explorer.expandSingleFolderWorkspaces": true,
+    "explorer.compactFolders": false
+}
