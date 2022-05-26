@@ -24,7 +24,7 @@ import '../../features/weatherCity/domain/repositories/weather_city_repository.d
     as _i9;
 import '../../features/weatherCity/domain/usecases/get_weather_city_usecase.dart'
     as _i11;
-import '../../features/weatherCity/prensentation/modules/controller/weather_city_controller.dart'
+import '../../features/weatherCity/presentation/services/controller/weather_city_controller.dart'
     as _i12;
 import 'registre_module.dart' as _i13; // ignore_for_file: unnecessary_lambdas
 

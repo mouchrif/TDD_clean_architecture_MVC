@@ -9,12 +9,12 @@ import 'package:clean_architecture_example/core/constants/colors/colors.dart';
 import 'package:clean_architecture_example/core/constants/sizes/screen_sizes.dart';
 import 'package:clean_architecture_example/core/constants/strings/constants.dart';
 import 'package:clean_architecture_example/core/di/injection.dart';
-import 'package:clean_architecture_example/features/weatherCity/prensentation/modules/controller/weather_city_controller.dart';
-import 'package:clean_architecture_example/features/weatherCity/prensentation/modules/view/widgets/flexible_param.dart';
-import 'package:clean_architecture_example/features/weatherCity/prensentation/modules/view/widgets/form_field_icon.dart';
-import 'package:clean_architecture_example/features/weatherCity/prensentation/modules/view/widgets/glassmorphisme.dart';
-import 'package:clean_architecture_example/features/weatherCity/prensentation/modules/view/widgets/horizontal_divider.dart';
-import 'package:clean_architecture_example/features/weatherCity/prensentation/modules/view/widgets/search_field.dart';
+import 'package:clean_architecture_example/features/weatherCity/presentation/services/controller/weather_city_controller.dart';
+import 'package:clean_architecture_example/features/weatherCity/presentation/services/view/widgets/flexible_param.dart';
+import 'package:clean_architecture_example/features/weatherCity/presentation/services/view/widgets/form_field_icon.dart';
+import 'package:clean_architecture_example/features/weatherCity/presentation/services/view/widgets/glassmorphisme.dart';
+import 'package:clean_architecture_example/features/weatherCity/presentation/services/view/widgets/horizontal_divider.dart';
+import 'package:clean_architecture_example/features/weatherCity/presentation/services/view/widgets/search_field.dart';
 
 class DisplayWeatherCity extends StatelessWidget {
   DisplayWeatherCity({Key? key}) : super(key: key);

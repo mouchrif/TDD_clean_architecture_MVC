@@ -2,8 +2,8 @@
 import 'package:flutter/material.dart';
 
 // Project imports:
-import 'package:clean_architecture_example/features/weatherCity/prensentation/modules/controller/weather_city_controller.dart';
-import 'package:clean_architecture_example/features/weatherCity/prensentation/modules/view/widgets/form_field_icon.dart';
+import 'package:clean_architecture_example/features/weatherCity/presentation/services/controller/weather_city_controller.dart';
+import 'package:clean_architecture_example/features/weatherCity/presentation/services/view/widgets/form_field_icon.dart';
 import '../../../../../../core/constants/colors/colors.dart';
 import '../../../../../../core/constants/sizes/screen_sizes.dart';
 

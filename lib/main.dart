@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 // Project imports:
 import 'package:clean_architecture_example/core/di/injection.dart';
 import 'package:clean_architecture_example/core/theme/app_theme.dart';
-import 'package:clean_architecture_example/features/weatherCity/prensentation/modules/view/pages/my_home_page.dart';
+import 'package:clean_architecture_example/features/weatherCity/presentation/services/view/pages/my_home_page.dart';
 
 // Project imports:
 

@@ -11,7 +11,7 @@ import 'package:clean_architecture_example/core/errors/error_entity.dart';
 import 'package:clean_architecture_example/core/stats/page_stats.dart';
 import 'package:clean_architecture_example/features/weatherCity/domain/entities/weather_city_entity.dart';
 import 'package:clean_architecture_example/features/weatherCity/domain/usecases/get_weather_city_usecase.dart';
-import 'package:clean_architecture_example/features/weatherCity/prensentation/modules/model/weather_city_p_model.dart';
+import 'package:clean_architecture_example/features/weatherCity/presentation/services/model/weather_city_p_model.dart';
 
 @injectable
 class WeatherCityController extends GetxController {
